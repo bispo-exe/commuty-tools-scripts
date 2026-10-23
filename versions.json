@@ -1,1 +1,12 @@
 
+{
+  "scripts": [
+    {
+      "id": "minecraft-pe",
+      "name": "Minecraft PE",
+      "version": "1.0.0",
+      "file": "scripts/minecraftPE.zip"
+    }
+  ]
+}
+
