@@ -5,7 +5,7 @@
       "id": "minecraft-pe",
       "name": "DESBLOQUEAR",
       "version": "1.0.0",
-      "file": "scripts/MinecraftPE.zip"
+      "file": "scripts/MinecraftPE.zip",
       "sha256": "0D20F4DE45C5CF3378B02B82FAE40AFC053062B79300B3E9D512923F0A47556A"
     }
   ]
