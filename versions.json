@@ -3,7 +3,7 @@
   "scripts": [
     {
       "id": "minecraft-pe",
-      "name": "MinecraftPE",
+      "name": "DESBLOQUEAR",
       "version": "1.0.0",
       "file": "scripts/minecraftPE.zip"
     }
